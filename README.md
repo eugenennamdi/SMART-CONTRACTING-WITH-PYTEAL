@@ -1,4 +1,4 @@
-# Using PYTEAL to purely express smart contract logic.
+# Using PYTEAL to express smart contract logic.
 
 
 BUILD STEPS
